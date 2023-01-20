@@ -1,0 +1,14 @@
+# Image Generator directory files
+ImageGenerator/data_classifier/intruder/
+ImageGenerator/data_classifier/member/
+ImageGenerator/data_classifier/persons/
+ImageGenerator/data_classifier_cropped/
+ImageGenerator/data_facedetector/
+
+# Face Detector directory files
+FaceDetector/aug_data/
+FaceDetector/data/
+
+# Image Classification directory files
+ImageClassifier/test_images
+ImageClassifier/logs
